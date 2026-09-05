@@ -1,2 +1,14 @@
-Personal finance app: income/expense tracking, budgeting, analytics, Telegram bot.
-Stack: Node.js, NestJS, TypeScript, PostgreSQL, Prisma, React, Next.js, Docker.
+# North
+
+Personal finance app with income/expense tracking, budgeting and analytics.
+
+## Stack
+
+- Node.js
+- NestJS
+- TypeScript
+- PostgreSQL
+- Prisma
+- React
+- Next.js
+- Docker
